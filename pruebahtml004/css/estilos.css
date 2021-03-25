@@ -1,0 +1,14 @@
+/* Css trabaja con el concepto de selector */
+h1{
+    /*definimos los atributos a modificar*/
+    color:#a52a2a;
+    text-align: center;
+}
+/*selector de clase*/
+.titulocolor{
+    color:#6495ed;
+    text-align:left;
+}
+body{
+    background-color: #FF0000;
+}
